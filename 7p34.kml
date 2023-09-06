@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>K M V Gunarathna   7p34   පනාදරේ</name>
+      <description>682000112v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22424768656492,7.533987281253578,0.0 80.224152803421,7.533902523892608,0.0 80.22402707487345,7.533823084625481,0.0 80.22390335798264,7.5337436453438,0.0 80.2239878475666,7.533538898006711,0.0 80.22420343011618,7.53365224029456,0.0 80.22439252585173,7.5337602644416055,0.0 80.22434558719397,7.533876265726423,0.0 80.22424768656492,7.533987281253578,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

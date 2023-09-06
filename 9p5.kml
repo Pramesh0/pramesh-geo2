@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>H.M.Y.B MALMEEWALA - 9P /5</name>
+      <description>521351357V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.2201962,7.5466545,0.0 80.2193701,7.5462606,0.0 80.2186489,7.5463042,0.0 80.2181296,7.54626,0.0 80.2180823,7.5462211,0.0 80.2180605,7.5460788,0.0 80.2180749,7.546004,0.0 80.2181259,7.5459196,0.0 80.2181842,7.5458515,0.0 80.2182825,7.5458046,0.0 80.2183723,7.545781,0.0 80.2187217,7.5456487,0.0 80.2191877,7.5455434,0.0 80.2193919,7.5454015,0.0 80.2195696,7.5456723,0.0 80.2197811,7.5460213,0.0 80.2199712,7.5463248,0.0 80.2201962,7.5466545,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

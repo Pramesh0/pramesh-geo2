@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>H.M AJANTHA MUTHUKUMARI-7P/53</name>
+      <description>761372728V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22282276302576,7.532940609778919,0.0 80.2226960286498,7.532928311623359,0.0 80.22277850657701,7.532668388361812,0.0 80.22286567837,7.532385530517684,0.0 80.22300682961941,7.532432728901687,0.0 80.22282276302576,7.532940609778919,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>C.M.M.C PANADARE -3/ P 15</name>
+      <description>311370669V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.23151211440563,7.546886493418369,0.0 80.23120131343603,7.5467116657793785,0.0 80.2309377864003,7.546550797699308,0.0 80.23123919963837,7.546155939430908,0.0 80.23161605000496,7.545673002018295,0.0 80.23179106414318,7.54581426043635,0.0 80.23209013044834,7.546148959609796,0.0 80.23192651569843,7.546309495467011,0.0 80.2317900583148,7.546496288666864,0.0 80.23151211440563,7.546886493418369,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

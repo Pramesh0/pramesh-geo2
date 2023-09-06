@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>J.A NALANI JAYAKODI -6/3</name>
+      <description>606281358V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22770706564188,7.539474537221368,0.0 80.22783312946558,7.539077345850517,0.0 80.2279407531023,7.539080004873452,0.0 80.22788509726524,7.53926480692786,0.0 80.2278944849968,7.539290067634196,0.0 80.22782877087593,7.539504118823524,0.0 80.22776070982218,7.53949049134413,0.0 80.22770706564188,7.539474537221368,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>A M Susilani   7p6   පනාදරේ</name>
+      <description>()</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22703483700752,7.534102950095932,0.0 80.22705931216478,7.533964346910492,0.0 80.22725712507963,7.5339935965072815,0.0 80.22729467600584,7.533889893382491,0.0 80.2273865416646,7.5338982029286585,0.0 80.22747069597244,7.533932105875376,0.0 80.22751729935408,7.53396733834662,0.0 80.22748544812202,7.534059408092808,0.0 80.22743012756109,7.534215627473023,0.0 80.2271981164813,7.534155134017589,0.0 80.22703483700752,7.534102950095932,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

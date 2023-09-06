@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>A M Ranbanda   7p37  පනාදරේ</name>
+      <description>863151473v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22440023720264,7.5337649177888615,0.0 80.22396638989449,7.533526599868134,0.0 80.22396571934223,7.53341525184069,0.0 80.22396471351385,7.533309554283706,0.0 80.22416353225708,7.533385669822631,0.0 80.22433687001467,7.533464112023434,0.0 80.22443577647209,7.533525935103874,0.0 80.22440962493421,7.5336419364514375,0.0 80.22440023720264,7.5337649177888615,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

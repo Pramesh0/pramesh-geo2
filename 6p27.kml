@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>R.M LEELA AMMA -6P/27</name>
+      <description>376311227V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22539734840393,7.535545151832995,0.0 80.22536180913448,7.535447764312138,0.0 80.2255579456687,7.535351041530846,0.0 80.22594921290874,7.535223074931342,0.0 80.22621877491473,7.535181194945107,0.0 80.22614903748035,7.535327442498459,0.0 80.22539734840393,7.535545151832995,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

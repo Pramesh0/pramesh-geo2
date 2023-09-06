@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>M R Chaminda bandara   7p11   පනාදරේ</name>
+      <description></description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.2258788049221,7.532591275548354,0.0 80.22611416876316,7.53268035414198,0.0 80.22598776966333,7.533161311754682,0.0 80.22588551044464,7.533133059249,0.0 80.22578224539757,7.53312408492328,0.0 80.22581342607737,7.532838900698039,0.0 80.22583354264498,7.532746830692472,0.0 80.2258788049221,7.532591275548354,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

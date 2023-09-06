@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>A M Abekon banda  7p7  පනාදරේ</name>
+      <description>()</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22695470601322,7.534538702267817,0.0 80.22684842348099,7.5345237451067115,0.0 80.22681422531605,7.534533051784787,0.0 80.22678840905428,7.534547676564225,0.0 80.22663753479718,7.534630771892583,0.0 80.22659629583359,7.534451285963373,0.0 80.22657483816147,7.534288751418866,0.0 80.22677835077047,7.534269140907325,0.0 80.22687390446663,7.534244877052841,0.0 80.22698823362589,7.534238894184392,0.0 80.22695504128933,7.5343941163554895,0.0 80.22695470601322,7.534538702267817,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

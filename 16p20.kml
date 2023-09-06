@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>R.M Pnchi Banda   plr16/20</name>
+      <description>621991086X</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.2491245,7.5367214,0.0 80.2491792,7.5363818,0.0 80.2491745,7.5362624,0.0 80.2490189,7.5362196,0.0 80.2490149,7.5360966,0.0 80.2490645,7.5359826,0.0 80.2491165,7.5359081,0.0 80.2491996,7.5358054,0.0 80.2492657,7.5358436,0.0 80.2493082,7.5359015,0.0 80.2493461,7.535962,0.0 80.2493706,7.5360048,0.0 80.2494417,7.5360215,0.0 80.2494668,7.5360444,0.0 80.2494581,7.5360507,0.0 80.2494943,7.5360567,0.0 80.2495443,7.5360849,0.0 80.2495768,7.5361471,0.0 80.249501,7.5363316,0.0 80.2494296,7.5364309,0.0 80.249379,7.5365513,0.0 80.2492864,7.5367803,0.0 80.2491245,7.5367214,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>S H Jayasuriya 5p73  පනාදරේ</name>
+      <description>586800760v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.23918323218822,7.53541851481355,0.0 80.23924894630909,7.535328439640696,0.0 80.23931868374348,7.535231052071112,0.0 80.23938540369272,7.535144300668163,0.0 80.23942463099957,7.535087795913595,0.0 80.2394675463438,7.535186513038825,0.0 80.23946955800056,7.5352297225478315,0.0 80.23932337760925,7.535394583404141,0.0 80.23920468986034,7.535453747163896,0.0 80.23918323218822,7.53541851481355,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

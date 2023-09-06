@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>T M C Kumara    5p9 පනාදරේ</name>
+      <description>843403601v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.23598603904247,7.539035466237044,0.0 80.23597430437803,7.539148142330755,0.0 80.23595955222845,7.539260486017408,0.0 80.23589886724949,7.539283752457755,0.0 80.23579996079206,7.539206308444346,0.0 80.2355981245637,7.539062721224051,0.0 80.23534767329693,7.538886893289887,0.0 80.23526016622782,7.538844016523832,0.0 80.23532789200544,7.538732669863505,0.0 80.23548513650894,7.5387645781631125,0.0 80.23570608347654,7.538810113961632,0.0 80.23598603904247,7.539035466237044,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

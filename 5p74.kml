@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>S H hemathilaka   5p74   පනාදරේ</name>
+      <description>830964029v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.23911718279125,7.535392589119971,0.0 80.23918122053146,7.535284565379986,0.0 80.23924358189106,7.5351991435111305,0.0 80.23940183222294,7.535010018768814,0.0 80.2394226193428,7.535083142580551,0.0 80.2391828969121,7.535419844336259,0.0 80.23911718279125,7.535392589119971,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

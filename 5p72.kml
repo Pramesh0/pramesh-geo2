@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>K M Thilakawathi 5p72 පනාදරේ</name>
+      <description>625802091V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.23932136595249,7.535395248165538,0.0 80.23948464542627,7.535219086361387,0.0 80.23968279361723,7.535320462502707,0.0 80.23993659764528,7.535451420499332,0.0 80.23985512554646,7.535626252686898,0.0 80.23977868258955,7.53582867237485,0.0 80.23971632122993,7.535788454349145,0.0 80.23963686078787,7.53579709623927,0.0 80.23952186107634,7.535776156274421,0.0 80.23945279419422,7.535734608722102,0.0 80.23932136595249,7.535395248165538,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

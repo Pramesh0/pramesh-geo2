@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>H M P Malkanthi    7p40   පනාදරේ</name>
+      <description>665920062v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22426042705774,7.533092840973023,0.0 80.22419337183237,7.533069241817611,0.0 80.22414173930885,7.5330512931633455,0.0 80.22408876568078,7.5330393273934195,0.0 80.2240465208888,7.533030353065766,0.0 80.22405758500099,7.532951578403872,0.0 80.22407300770283,7.5328993943372575,0.0 80.2241863310337,7.532931303066635,0.0 80.2242473512888,7.532959555585473,0.0 80.22427584975958,7.532968197532046,0.0 80.22426780313253,7.533033676890848,0.0 80.22426042705774,7.533092840973023,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

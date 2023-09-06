@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>M H H B Mapa   5p69  පනාදරෙ</name>
+      <description>501234290v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.24063028395176,7.536189969677978,0.0 80.24062860757113,7.535867560875508,0.0 80.2406245842576,7.535679765946944,0.0 80.2409052103758,7.535551467063977,0.0 80.24119053035975,7.535762861058121,0.0 80.24102222174406,7.5362564456899,0.0 80.24082474410534,7.536222875305161,0.0 80.24063028395176,7.536189969677978,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

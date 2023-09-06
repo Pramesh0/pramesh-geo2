@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>A M Ranmanika   7p5   පනාදරේ</name>
+      <description>568252012v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22731345146894,7.534615149972065,0.0 80.22695370018482,7.534539367030526,0.0 80.22695437073708,7.534461922168658,0.0 80.22695805877447,7.5343887982520386,0.0 80.22699058055878,7.534239891329149,0.0 80.2270083501935,7.534171753099594,0.0 80.22703181952238,7.534102617714253,0.0 80.22720381617546,7.534159787360608,0.0 80.22731713950634,7.534184051219863,0.0 80.22743079811333,7.534217621762612,0.0 80.22740129381418,7.534326310531696,0.0 80.22736575454475,7.5344024258919875,0.0 80.2273992821574,7.534417715438728,0.0 80.22736005485058,7.534540364174582,0.0 80.22731345146894,7.534615149972065,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

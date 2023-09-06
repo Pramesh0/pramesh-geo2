@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>A M Punchibanda  7p14  පනාදරේ</name>
+      <description>()</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.2266389,7.5346394,0.0 80.226481,7.5347727,0.0 80.2263314,7.5348538,0.0 80.2261909,7.5349209,0.0 80.2261145,7.5348495,0.0 80.2260367,7.5347707,0.0 80.2259217,7.5346766,0.0 80.2258791,7.5345321,0.0 80.2259043,7.5343908,0.0 80.2260981,7.5343552,0.0 80.2262848,7.5343323,0.0 80.2264642,7.5342997,0.0 80.2265745,7.5342891,0.0 80.2265976,7.5344503,0.0 80.2266389,7.5346394,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

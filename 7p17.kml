@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>C M Isuru pradeep kumara 7p17  පනාදරේ</name>
+      <description></description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22532291710377,7.534700571956094,0.0 80.22527463734151,7.534541028937277,0.0 80.22543959319592,7.534454942158964,0.0 80.22560589015484,7.534378494426434,0.0 80.22567965090275,7.534462919312893,0.0 80.22583790123463,7.534421371634599,0.0 80.22587344050407,7.5345646280125145,0.0 80.22568836808205,7.534620135691446,0.0 80.22566825151445,7.534541693699974,0.0 80.22532291710377,7.534700571956094,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

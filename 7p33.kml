@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>C M G Chandrasekara   7p33  පනාදරේ</name>
+      <description>611094965v</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.2251734,7.5340913,0.0 80.22527363151312,7.534050433786286,0.0 80.22532794624567,7.534276120920009,0.0 80.2249769,7.534425,0.0 80.224701,7.5345563,0.0 80.2245917,7.5344795,0.0 80.2245954,7.5342392,0.0 80.2246916,7.534086,0.0 80.2248049,7.5339324,0.0 80.22493,7.533721,0.0 80.2250872,7.5339135,0.0 80.2251734,7.5340913,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

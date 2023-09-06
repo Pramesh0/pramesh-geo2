@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="AREA_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>D.M.T.B DISSANAYAKA -7P/45A</name>
+      <description>610450660V</description>
+      <styleUrl>#AREA_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>80.22394090890884,7.533681157530408,0.0 80.22348895668983,7.53357113907109,0.0 80.22349633276463,7.5334056127563835,0.0 80.22354394197464,7.533166962255588,0.0 80.223991535604,7.533298585667825,0.0 80.22398583590984,7.533545878031164,0.0 80.22394090890884,7.533681157530408,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
